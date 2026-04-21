@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-My AI Agent — Локальный ИИ-ассистент
+👼AngelAI👼 — Локальный ИИ-ассистент
 Работает через Ollama + поддерживает инструменты
 """
 
@@ -123,7 +123,7 @@ def handle_code_generation(code, language):
 # ========== ОСНОВНОЙ ЦИКЛ ==========
 def main():
     print("=" * 60)
-    print("🤖 MY AI AGENT v1.0 — Локальный ИИ-ассистент")
+    print("👼AngelAI👼 v1.0 — Локальный ИИ-ассистент")
     print("=" * 60)
     print("⚙️ Конституция загружена")
     print("📁 Код будет сохраняться в папку: generated/")
