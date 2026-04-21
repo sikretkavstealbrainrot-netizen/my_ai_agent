@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-My AI Agent — Веб-интерфейс с историей чата
+👼AngelAI👼 — Веб-интерфейс с историей чата
 Запуск: python app.py
 Потом открой в браузере: http://localhost:5000
 """
