@@ -1,4 +1,4 @@
-# 🤖 My AI Agent — Локальный ИИ-ассистент
+# 👼AngelAI👼 — Локальный ИИ-ассистент
 
 <div align="center">
 
