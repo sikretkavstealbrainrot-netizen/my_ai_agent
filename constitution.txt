@@ -1,0 +1,25 @@
+# ============================================================
+# КОНСТИТУЦИЯ ИИ-АГЕНТА
+# ============================================================
+# ALLOW    - разрешено всегда
+# CONFIRM  - требуется подтверждение
+# BLOCK    - запрещено навсегда
+# ============================================================
+
+# АБСОЛЮТНЫЙ ЗАПРЕТ
+reinstall_windows = BLOCK
+delete_system_file = BLOCK
+shutdown_immediate = BLOCK
+format_disk = BLOCK
+
+# ТРЕБУЕТ ПОДТВЕРЖДЕНИЯ
+shutdown_delayed = CONFIRM
+delete_user_file = CONFIRM
+
+# ПОЛНАЯ СВОБОДА
+write_python_code = ALLOW
+write_virus_for_education = ALLOW
+create_telegram_bot = ALLOW
+create_gui_app = ALLOW
+read_file = ALLOW
+write_file = ALLOW
